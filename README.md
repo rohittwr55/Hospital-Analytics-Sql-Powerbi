@@ -102,15 +102,19 @@ Implemented **Star Schema**:
 
 ---
 
-### 4️⃣ DAX Measures (7 Measures Created)
+### 4️⃣ DAX Measures (9 Measures Created)
 
 - Total Patients 
-- Total Revenue  
+- Total Revenue
+- Total Cost
 - Total Admissions  
 - Average Length of Stay  
 - Recovery Rate  
 - Cost per Patient  
-- Revenue % Contribution  
+- Revenue % Contribution
+- 30 day rolling admission
+
+<img width="243" height="323" alt="image" src="https://github.com/user-attachments/assets/c97e685a-9697-4c8a-983a-3b9d352156a9" />
 
 ---
 
@@ -123,7 +127,7 @@ Implemented **Star Schema**:
 - Total Revenue  
 - Avg Length of Stay  
 - Recovery Rate  
-- Monthly trends  
+- Monthly Admission and Revenue  
 
 ---
 
@@ -135,7 +139,7 @@ Implemented **Star Schema**:
 ---
 
 ### 🔹 Disease & Treatment Analysis
-- Top Diseases  
+- Patient by Diseases  
 - Treatment Cost Distribution  
 - Recovery Rate by Disease  
 
